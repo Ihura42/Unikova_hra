@@ -1,1 +1,2 @@
 # Unikova_hra
+Ve hře je vaším cílem dostat se do tajemného hradu hluboko v lese. Budete muset překonávat různé překážky a výzvy a zároveň sbírat předměty do svého inventáře. Pokud se ztratíte, můžete se vždy podívat na mapu. A nezapomeňte, že máte na výběr mezi snadnou a obtížnou cestou, což ovlivní průběh hry. Hodně štěstí při vašem dobrodružství!
